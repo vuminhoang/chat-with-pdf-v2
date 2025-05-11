@@ -12,12 +12,11 @@
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-
 ```bash
-git clone https://github.com/your-username/pdf-chatter.git
-cd pdf-chatter
+git clone https://github.com/vuminhoang/chat-with-pdf-v2.git
+pip install -r requirements.txt
 ```
+
 
 
 
