@@ -1,0 +1,2 @@
+# This directory is used to store FAISS or Chroma vector indices
+# The .gitkeep file ensures the directory is included in version control
